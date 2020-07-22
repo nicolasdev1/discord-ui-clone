@@ -1,1 +1,1 @@
-# web-discord-clone
+# Discord UI Clone
